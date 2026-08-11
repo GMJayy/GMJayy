@@ -40,20 +40,20 @@
 
 | Repository | Description | Stack |
 | :--- | :--- | :--- |
-| 🤖 **[Halo-cli](https://github.com/im-Like-Satay/Halo-cli)** | Simple AI Chat CLI built with Go | `Go` |
-| ⚡ **[express-api](https://github.com/im-Like-Satay/express-api)** | Lightweight REST API starter | `Node.js`, `Express` |
+| 🤖 **[Halo-cli](https://github.com/GMJayy/Halo-cli)** | Simple AI Chat CLI built with Go | `Go` |
+| ⚡ **[express-api](https://github.com/GMJayy/express-api)** | Lightweight REST API starter | `Node.js`, `Express` |
 
 <br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=im-Like-Satay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pnyu's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=im-Like-Satay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GMJayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pnyu's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GMJayy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=im-Like-Satay&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=GMJayy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <br>
