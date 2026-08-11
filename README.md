@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Pnyu** (`im-Like-Satay`) 🍢
+# 👋 Hi there, I'm **Jayy** (`GMJayy`) 🍢
 
 ### *"Main catur dulu ♟️, ngodingnya belakangan 💻"*
 
