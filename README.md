@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🍢 **Fun Fact:** Suka ngoding, main catur ♟️, dan tidak pernah menolak Sate!
-- 🛡️ **Cyber Security:** Sedang mendalami dunia Keamanan Siber (Cyber Security) untuk membangun dan merancang sistem yang aman serta tangguh.
+- 🛡️ **Cyber Security:** Sedang mendalami Cyber Security (Red Teaming & Blue Teaming) untuk memahami taktik eksploitasi sekaligus pertahanan sistem secara saksama.
 - 🛠️ **Fokus Utama:** Backend Development, REST API, & CLI Tools.
 - ⚡ **Tech Favorite:** **Golang**, **Rust**, **Python**, dan **Node.js**.
 - 🔭 **Sedang Mempelajari:** Eksplorasi pemrograman sistem menggunakan Rust, arsitektur backend di Go, dan dasar-dasar Cyber Security.
