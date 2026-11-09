@@ -9,7 +9,7 @@
 <br>
 
 ## 🚀 About Me
-Aku adalah seorang Cybersecurity entusiast serta suka meyelami dunia pemrograman
+Aku adalah seorang Cybersecurity entusiast serta terkadang suka meyelami dunia pemrograman.
 
 <br>
 
@@ -46,12 +46,3 @@ Aku adalah seorang Cybersecurity entusiast serta suka meyelami dunia pemrograman
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GMJayy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
-
-<br>
-
-<div align="center">
-
----
-✨ *Made with passion & satay* 🍢
-
-</div>
