@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Jayy** (`GMJayy`) 🍢
-
-### *"Main catur dulu ♟️, ngodingnya belakangan 💻"*
-
----
+# 👋 Hi there, I'm **Jayy** (`GMJayy`) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Backend+%26+CLI+Developer;Cyber+Security+Enthusiast+%F0%9F%94%92;Golang+%7C+Rust+%7C+Python+%7C+Node.js;Chess+Enthusiast+%26+Satay+Lover+%F0%9F%8D%A2)](https://git.io/typing-svg)
 
@@ -14,11 +10,6 @@
 
 ## 🚀 About Me
 
-- 🍢 **Fun Fact:** Suka ngoding, main catur ♟️, dan tidak pernah menolak Sate!
-- 🛡️ **Cyber Security:** Sedang mendalami Cyber Security (Red Teaming & Blue Teaming) untuk memahami taktik eksploitasi sekaligus pertahanan sistem secara saksama.
-- 🛠️ **Fokus Utama:** Backend Development, REST API, & CLI Tools.
-- ⚡ **Tech Favorite:** **Golang**, **Rust**, **Python**, dan **Node.js**.
-- 🔭 **Sedang Mempelajari:** Eksplorasi pemrograman sistem menggunakan Rust, arsitektur backend di Go, dan dasar-dasar Cyber Security.
 
 <br>
 
