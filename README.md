@@ -9,7 +9,7 @@
 <br>
 
 ## 🚀 About Me
-
+Aku adalah seorang Cybersecurity entusiast serta suka meyelami dunia pemrograman
 
 <br>
 
